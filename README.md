@@ -1,4 +1,4 @@
-# [Nombre del Proyecto: Análisis de ventas de Northwind]
+# Análisis de ventas de Northwind
 
 ## 📊 Vista Previa del Dashboard
 Para que no tengas que descargar el archivo, aquí tienes una captura de cómo se ve el reporte:
