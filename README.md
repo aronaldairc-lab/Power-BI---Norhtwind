@@ -1,3 +1,4 @@
+<img width="930" height="492" alt="DashboardNorthwind" src="https://github.com/user-attachments/assets/ba75a244-40a5-48ca-8285-96745380eb85" />
 # Análisis de ventas de Northwind
 
 ## 📊 Vista Previa del Dashboard
